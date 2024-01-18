@@ -10,3 +10,6 @@ npm-debug.log*
 
 *.pdf
 *.jpeg
+
+/database
+/images
